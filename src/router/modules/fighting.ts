@@ -12,7 +12,7 @@ export default {
       component: () => import("@/views/fighting/index.vue"),
       meta: {
         icon: "vscode-icons:file-type-appscript",
-        title: "加油"
+        title: "加油加油"
       }
     },
     {
@@ -21,7 +21,7 @@ export default {
       component: () => import("@/views/fighting/effort.vue"),
       meta: {
         icon: "vscode-icons:file-type-clojure",
-        title: "努力"
+        title: "努力努力"
       }
     }
   ]
